@@ -128,7 +128,7 @@ In this project:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Devidutta3/your-repo-name.git
+   git clone https://github.com/Devidutta3/Inheritance-in-java.git
 javac ShapeTest.java
 java ShapeTest
 
